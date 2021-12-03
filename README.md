@@ -23,7 +23,7 @@
 
 ```bash
 > git clone https://github.com/BOTCAHX/INI-TERAKHIR-YA-ANJ
-> cd Hanz
+> cd INI-TERAKHIR-YA-ANJ
 > npm i
 ```
 ### For termux users before running the above command write this command
