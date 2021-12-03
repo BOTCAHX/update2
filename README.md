@@ -22,7 +22,7 @@
 ### Install ⬇️
 
 ```bash
-> git clone https://github.com/HARISGANZ/Hanz
+> git clone https://github.com/BOTCAHX/INI-TERAKHIR-YA-ANJ
 > cd Hanz
 > npm i
 ```
