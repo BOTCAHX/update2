@@ -21,9 +21,10 @@
 ### Install ⬇️
 
 ```bash
-> git clone https://github.com/BOTCAHX/INI-TERAKHIR-YA-ANJ
+> git clone https://github.com/BOTCAHX/Bot_Watio
 > cd Bot_Watio
 > npm i
+>npm start
 ```
 ### For termux users before running the above command write this command
 ```bash
